@@ -1,4 +1,5 @@
 Puzzle Solver(Cannibals and Missionaries
+
 Author: Panagiotis Georgiadis
 
 This Python code is a puzzle solver that is designed to find a sequence of moves to reach a specific target state. The code uses a set of rules and logic to explore possible moves and generate a path to the target state.
