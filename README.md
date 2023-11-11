@@ -1,4 +1,4 @@
-Puzzle Solver(Cannibals and Missionaries
+Puzzle Solver(Cannibals and Missionaries)
 
 Author: Panagiotis Georgiadis
 
